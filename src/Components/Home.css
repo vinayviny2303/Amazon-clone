@@ -1,0 +1,82 @@
+h1{
+    color:   #ff9900;
+    text-align: center;
+    font-family: emoji;
+font-family: math;
+font-family: fangsong;
+
+
+}
+.viny{
+    display: flex;
+    gap: 30px;
+    /* margin-left: -100px;
+    margin-top: 50px; */
+    margin-left: 65px;
+    
+    
+
+}
+.vinay{
+    margin: 100px;
+    padding-bottom: 20px;
+    background-color: white;
+    margin-bottom: 100px;
+}
+/* .hhh{
+    margin-top: 16px;
+    position: relative;
+    left: 260px;
+    top: -20px; */
+    /* text-align: center; */
+  
+/* }  */
+.image1{
+    margin-top: 140px;
+    height: 250px;
+    width: 300px;
+     border-image: linear-gradient(red, rgb(161, 161, 252)) 27 / 35px; 
+     width: 11rem;
+     background:url("https://m.media-amazon.com/images/I/71swhMfRFcL._UY741_.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+     border: 1.4rem solid;
+     border-image: radial-gradient(#ff2, #55f) 40;
+     border-image-outset: 1.5; /* 1.5 × 1.4rem = 2.1rem */
+     margin: 2.1rem;
+     padding-left: 10px;
+     margin-right: 40px;
+
+}
+.image2{
+    
+     border-image: linear-gradient(red, blue) 27 / 35px; 
+     width: 11rem;
+     background:url("https://m.media-amazon.com/images/I/71XVDnkB1oL._UY741_.jpg");
+     background-size:cover;
+     background-repeat: no-repeat;
+     border: 1.4rem solid;
+     border-image: radial-gradient(#ff2, #55f) 40;
+     border-image-outset: 1.5; /* 1.5 × 1.4rem = 2.1rem */
+     margin: 2.1rem;
+     padding-left: 10px;
+     margin-right: 40px;
+
+}
+.image3{
+    height: 250px;
+    width: 300px;
+     border-image: linear-gradient(red, blue) 27 / 35px; 
+     width: 11rem;
+     background:url("https://m.media-amazon.com/images/I/817S2-D18WL._AC_UL320_.jpg");
+     background-repeat: no-repeat;
+     border: 1.4rem solid;
+     border-image: radial-gradient(#ff2, #55f) 40;
+     border-image-outset: 1.5; /* 1.5 × 1.4rem = 2.1rem */
+     margin: 2.1rem;
+     padding-left: 10px;
+     margin-right: 40px;
+
+}
+
+
